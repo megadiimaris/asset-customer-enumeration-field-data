@@ -38,7 +38,7 @@ The objective was to conduct comprehensive **field data collection**, **verifica
 | :--- | :--- |
 | **Field Data Collection** | GPS devices, Mobile Data Collection Apps, GIS Tools |
 | **Data Processing & Analysis** | Microsoft Excel, Google Sheets |
-| **Geographic Information Systems (GIS)** | GIS Mapping Tools (QGIS, ArcGIS) |
+| **Geographic Information Systems (GIS)** | GIS Mapping Tools (QGIS, ArcGIS, Google Earth) |
 | **Data Quality Assurance** | Manual validation, cross-referencing, duplicate detection |
 | **Collaboration** | Microsoft Teams, Slack, Zoom |
 
