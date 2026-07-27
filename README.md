@@ -143,7 +143,7 @@ asset-customer-enumeration-field-data/
 **Uzoma-Ibe Ikechukwu Kenneth**
 - 📧 Email: megadiamaris@gmail.com
 - 🔗 LinkedIn: [Uzoma-Ibe Ikechukwu Kenneth](https://www.linkedin.com/in/uzoma-ibe-ikechukwu-kenneth-26694ba6)
-- 🌐 GitHub: [github.com/megamindz](https://github.com/megamindz)
+- 🌐 GitHub: [github.com/megamindz](https://github.com/Uzoma-Ibe)
 - 📱 Phone: +234 803 487 2603
 
 ---
