@@ -77,8 +77,8 @@ The objective was to conduct comprehensive **field data collection**, **verifica
 
 | **Outcome** | **Impact** |
 | :--- | :--- |
-| ✅ **Accurate Data Collection** | Successfully enumerated thousands of assets and customer locations with high accuracy |
-| ✅ **Data Integrity** | Reduced data errors and inconsistencies through rigorous validation and quality checks |
+| ✅ **Large-Scale Enumeration** | Successfully enumerated **161,553 assets** and **146,498 customers** across the network |
+| ✅ **Data Integrity** | Maintained high data quality through rigorous validation and quality checks |
 | ✅ **Improved Planning** | Provided accurate asset and customer data to support business planning and operational decisions |
 | ✅ **GIS Integration** | Successfully mapped assets and customers using GIS tools, enabling spatial analysis |
 | ✅ **Process Standardization** | Established field data collection and validation workflows for future projects |
@@ -88,13 +88,12 @@ The objective was to conduct comprehensive **field data collection**, **verifica
 
 ## 📈 Sample Enumeration Metrics
 
-| **Metric** | **Target** | **Achieved** | **Completion Rate** |
-| :--- | :--- | :--- | :--- |
-| Assets Enumerated | 5,000 | 4,850 | **97%** |
-| Customers Enumerated | 25,000 | 24,200 | **96.8%** |
-| GIS Mapping Complete | 100% | 98% | **98%** |
-| Data Accuracy Rate | 95% | 96.5% | **101.5%** |
-| Field Teams Managed | 8 | 8 | **100%** |
+| **Metric** | **Total** |
+| :--- | :--- |
+| **Assets Enumerated** | **161,553** |
+| **Customers Enumerated** | **146,498** |
+
+> **Note:** This represents the complete enumeration of all assets and customers across the Jos Electricity Distribution Plc network.
 
 ---
 
